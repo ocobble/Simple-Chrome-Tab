@@ -5,7 +5,6 @@
 
 	"default_locale": "en",
 	"description": "A way to simplify the description of your tabs",
-	"icons": { },
 
 	"permissions": [ "tabs"]
 }
